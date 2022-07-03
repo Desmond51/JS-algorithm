@@ -9,4 +9,5 @@ function sum(n){
     return result;
 }
 sum(3)
+sum(10)
 sum(12)
